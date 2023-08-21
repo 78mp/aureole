@@ -229,7 +229,7 @@
                     <div class="collapse fade show h-100 w-100" id="imagecontent1" data-parent="#middleaccordion1" style="transition-duration: .5s">
                     
                     <!-- image -->
-                     <div class="rounded h-100 w-100 p-1" style="background: url(https://media.discordapp.net/attachments/885389314358386699/1137632648735494166/PAREIDOLIA_ANIMATED.gif?width=400&height=400); background-repeat: no-repeat; background-position: center; background-size: cover; cursor: crosshair;">
+                     <div class="rounded h-100 w-100 p-1" style="background: url(https://media.discordapp.net/attachments/885389313905418313/1143124987784478720/pareidolia_khuo_low_resolutin.gif?width=658&height=1168); background-repeat: no-repeat; background-position: center; background-size: cover; cursor: crosshair;">
                      
                         <!-- top of image name -->
                         <div class="p-1" style="background: rgba(0,0,0,.4); border-radius: 5px 5px 0px 0px; font-variant: small-caps; letter-spacing: 2px; cursor: crosshair; opacity: .95">
@@ -778,18 +778,10 @@
                 -->
                 <iframe style="width:25px;height:25px;position:absolute;transform:translateY(-50%);top:50%;left:0;right:0;margin-left:auto;margin-right:auto;opacity:.0001" src="https://www.youtube.com/embed/5MmligMt-Nc"></iframe>
               </div>
+              
          </div>
     </div>
 </div>
-  <!--
-  Do not remove my credit button below plz and thanks.
-  -->
-  <div class="mt-2">
-    <div style="display:inline-block">
-      <a class="btn justify-content-center" data-toggle="collapse" href="#credits" style="padding:0;width:78px;color:#fff">
-        <img src="https://i.imgur.com/vR4cRAz.png" style="height:50px;width:50px;">
-        <div>Credits</div>
-      </a>
-    </div>
-  </div>
-</div>
+
+ 
+ 
